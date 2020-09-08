@@ -6,7 +6,7 @@
 }
 .car {
   width: 50px;
-  height: 100px;
+  height: 110px;
   background: transparent center no-repeat url('../image/player.png');
   background-size: cover;
 }
