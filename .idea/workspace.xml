@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="923320ae-d085-4b2d-b4ca-d2f2cdda411c" name="Default Changelist" comment="" />
+    <list default="true" id="923320ae-d085-4b2d-b4ca-d2f2cdda411c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +20,9 @@
         <option value="CSS File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1hBIjW7wMgQg8QRyb7dvHKNHaJ8" />
   <component name="ProjectViewState">
@@ -41,7 +49,9 @@
       <workItem from="1599478194944" duration="2297000" />
       <workItem from="1599549658559" duration="319000" />
       <workItem from="1599550023901" duration="620000" />
-      <workItem from="1599550670116" duration="5937000" />
+      <workItem from="1599550670116" duration="6036000" />
+      <workItem from="1599564458296" duration="9000" />
+      <workItem from="1599601695100" duration="7554000" />
     </task>
     <servers />
   </component>
@@ -53,5 +63,9 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="446" y="0" width="916" height="738" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1599551026844" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1599638499384">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1599638499384" />
   </component>
 </project>
